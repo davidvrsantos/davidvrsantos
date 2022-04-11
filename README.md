@@ -1,33 +1,24 @@
 ### Olá 👋
-- Sou Desenvolvedor web com foco em qualidade. Apaixonado por programação de softwares e trabalhando nesta área desde 2016.
-- Já participei de desenvolvimento de sistema web para uso interno de cooperativa de crédito com demandas para mais de 40 mil cooperados. Atualmente faço parte de um time web trabalhando em sistema de gerenciamento de micro e pequenas empresas.
-
-### Languages
-![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+Sou Desenvolvedor fullstack com foco em qualidade. Apaixonado por programação e trabalhando nesta área desde 2016.
 
 ### Contato
-[<img align="left" alt="David Santos | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidvrsantos)
-[<img align="left" alt="David Santos | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/davidvrsantos/)
+[![Linkedin](https://img.shields.io/badge/-davidvrsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidvrsantos/)](https://www.linkedin.com/in/davidvrsantos/)
 
-<br />
-<br />
+### Linguagens
 
-### Ferramentas e Tecnologias
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Postgresql)
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+### Tecnologias
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify.js-000?&logo=Vuetify)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![AngularJS](https://img.shields.io/badge/-AngularJS-000?&logo=AngularJS)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
