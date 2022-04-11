@@ -1,5 +1,6 @@
 ### Olá 👋
-Sou Desenvolvedor web com foco em qualidade. Já participei de desenvolvimento de sistema web para uso interno de cooperativa de crédito com demandas para mais de 40 mil cooperados. Atualmente faço parte de um time web trabalhando em sistema de gerenciamento de micro e pequenas empresas.
+- Sou Desenvolvedor web com foco em qualidade. Apaixonado por programação de softwares e trabalhando nesta área desde 2016.
+- Já participei de desenvolvimento de sistema web para uso interno de cooperativa de crédito com demandas para mais de 40 mil cooperados. Atualmente faço parte de um time web trabalhando em sistema de gerenciamento de micro e pequenas empresas.
 
 ### Contato
 [<img align="left" alt="David Santos | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidvrsantos)
