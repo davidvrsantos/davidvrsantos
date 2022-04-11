@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Contato
+[<img align="left" alt="David Santos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidvrsantos)
+[<img align="left" alt="David Santos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/davidvrsantos/)
+
 ### Ferramentas e Tecnologias
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
