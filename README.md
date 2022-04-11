@@ -3,8 +3,8 @@
 - Já participei de desenvolvimento de sistema web para uso interno de cooperativa de crédito com demandas para mais de 40 mil cooperados. Atualmente faço parte de um time web trabalhando em sistema de gerenciamento de micro e pequenas empresas.
 
 ### Contato
-[<img align="left" alt="David Santos | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidvrsantos){:target="_blank" rel="noopener"}
-[<img align="left" alt="David Santos | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/davidvrsantos/){:target="_blank" rel="noopener"}
+[<img align="left" alt="David Santos | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidvrsantos)
+[<img align="left" alt="David Santos | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/davidvrsantos/)
 
 <br />
 <br />
@@ -26,23 +26,3 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-
-
-
-
-
-<!--
-**davidvrsantos/davidvrsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
