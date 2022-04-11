@@ -1,5 +1,5 @@
 ### Olá 👋
-Sou Desenvolvedor fullstack com foco em qualidade. Apaixonado por programação e trabalhando nesta área desde 2016.
+*Sou Desenvolvedor fullstack com foco em qualidade. Apaixonado por programação e trabalhando nesta área desde 2016.*
 
 ### Contato
 [![Linkedin](https://img.shields.io/badge/-davidvrsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidvrsantos/)](https://www.linkedin.com/in/davidvrsantos/)
@@ -22,3 +22,5 @@ Sou Desenvolvedor fullstack com foco em qualidade. Apaixonado por programação 
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidvrsantos&hide_border=true&theme=dark" alt="davidvrsantos" /> </p>
